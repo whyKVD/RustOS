@@ -1,7 +1,7 @@
 # fccOS
 a project in wich iwant to explore how an os work
 
-i will follow a tutorial written by Hasini Samarathunga in a series of medium posts
+i will follow a tutorial written by Erik Helin, Adam Renberg in a pdf
 
 ## reference
->https://hasinisama.medium.com/building-your-own-operating-system-980a4498104
+>https://littleosbook.github.io/#quick-setup
